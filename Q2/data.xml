@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <name>Nensi</name>
+        <email>nensi@gmail.com</email>
+        <contact>4589632107</contact>
+    </student>
+    <student>
+        <name>Nari</name>
+        <email>nari@gmai.com</email>
+        <contact>8865896322</contact>
+    </student>
+    <student>
+        <name>John</name>
+        <email>john@gmai.com</email>
+        <contact>98551531520</contact>
+    </student>
+    <student>
+        <name>Rita</name>
+        <email>rita@gmai.com</email>
+        <contact>65531653116</contact>
+    </student>
+</students>
